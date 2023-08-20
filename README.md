@@ -1,7 +1,7 @@
-# SayCheese v1.0
+# SayCheese v2.0
 Take webcam shots from target just sending a malicious link
 
-![cheese](https://user-images.githubusercontent.com/34893261/56869077-e5714d80-69d1-11e9-8ce2-29a254021890.jpg)
+![cheese](https://github.com/anonymousproo/saycheese/blob/main/Screenshot%202023-08-20%2007:55:52.png)
 
 # How it works?
 <p>The tool generates a malicious HTTPS page using Serveo or Ngrok Port Forwarding methods, and a javascript code to cam requests using MediaDevices.getUserMedia. </p>
@@ -14,8 +14,8 @@ Take webcam shots from target just sending a malicious link
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/thelinuxchoice/saycheese
+git clone https://github.com/anonymousproo/saycheese
 cd saycheese
-bash saycheese
+./saycheese
 ```
 
